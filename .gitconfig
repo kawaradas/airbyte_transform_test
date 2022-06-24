@@ -1,0 +1,2 @@
+[credential "http://proxy-t.systena.local:8080"]
+	provider = generic
